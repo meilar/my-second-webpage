@@ -1,0 +1,12 @@
+h1 {
+  color:blue;
+}
+
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+body {
+  padding-left: 150px;
+  padding-right: 150px;
+}
