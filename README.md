@@ -25,4 +25,6 @@ There are no known issues.
 
 ## License
 
+MIT
+
 Copyright (c) 2021 Matt Eilar, all rights reserved.
